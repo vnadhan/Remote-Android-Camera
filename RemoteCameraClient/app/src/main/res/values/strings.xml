@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaptureShelf</string>
+    <string name="service_name">NativeRemoteCamera</string>
+</resources>
